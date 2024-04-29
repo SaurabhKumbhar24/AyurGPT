@@ -63,7 +63,7 @@ function App() {
       },{
         headers:{
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer sk-proj-msjk6tzIcLGvBChvC9yhT3BlbkFJUV7TqyprPrA919IFHuSt'
+          'Authorization': 'Bearer openai_api_key'
         }
       });
 
